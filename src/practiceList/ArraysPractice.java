@@ -9,7 +9,7 @@ public class ArraysPractice {
             System.out.println(nesStr[i]);
         }
 
-
+        System.out.println("Hello World!");
 
 
     }
